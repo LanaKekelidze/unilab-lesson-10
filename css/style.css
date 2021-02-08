@@ -23,6 +23,10 @@ max-width:352px;
 width:100%;
 height: 60px;
 }
-.textarea {
-  width: 720px;
+.flex-container {
+  display: flex;
+}
+
+.flex-container > div {
+  margin: 16px;
 }
