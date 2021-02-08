@@ -25,13 +25,14 @@ input {
 
 .flex-container > div {
   margin: 16px;
-  margin-left: 139px;
 }
 
 textarea {
   width: 720px;
   height: 288px;
+  margin-left: 139px;
 }
 .input-text {
   margin-bottom: 16px;
+  margin-right: 139px;
 }
