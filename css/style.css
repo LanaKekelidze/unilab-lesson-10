@@ -1,14 +1,13 @@
-section {
-  margin:0 auto;
-}
 h6 {
   color: #5863F8;
   margin-top: 88px;
+  margin-left: 139px;
 }
 h1 {
   font-size: 42px;
   width: 300px;
   margin-bottom: 50px;
+  margin-left: 139px;
 }
 button {
 max-width:352px;
@@ -28,13 +27,12 @@ input {
   margin: 16px;
   margin-left: 139px;
 }
-.wraper-box {
-  margin-right: 139px;
-}
+
 textarea {
   width: 720px;
   height: 288px;
 }
 .input-text {
   margin-bottom: 16px;
+  margin-right: 139px;
 }
