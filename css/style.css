@@ -30,7 +30,7 @@ height: 60px;
 .flex-container > div {
   margin: 16px;
 }
-.textarea {
+textarea {
   width: 720px;
   height: 288px;
 }
