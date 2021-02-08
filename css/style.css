@@ -5,3 +5,20 @@ h1 {
   font-size: 42px;
   width: 300px;
 }
+
+input[type=text] {
+  max-width: 352px;
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #555;
+  outline: none;
+}
+
+input[type=text]:focus {
+  background-color: lightblue;
+}
+button {
+max-width:352px;
+width:100%;
+height: 60px;
+}
