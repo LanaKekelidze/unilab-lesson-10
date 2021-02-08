@@ -13,6 +13,10 @@ height: 60px;
 .flex-container {
   display: flex;
 }
+input {
+  width: 352px;
+  height: 60px;
+}
 
 .flex-container > div {
   margin: 16px;
@@ -22,7 +26,5 @@ textarea {
   height: 288px;
 }
 .input-text {
-  width: 352px;
-  height: 60px;
   margin-bottom: 16px;
 }
