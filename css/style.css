@@ -29,6 +29,7 @@ input {
   height: 60px;
   border: 2px solid;
   border-color: #E8E8E8;
+  background-color: #F8F8F8;
 }
 input::placeholder {
   color: #CECECE;
@@ -46,6 +47,7 @@ textarea {
   color: red;
   border: 2px solid;
   border-color: #E8E8E8;
+  background-color: #F8F8F8;
 }
 .input-text {
   margin-bottom: 16px;
