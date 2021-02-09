@@ -1,11 +1,13 @@
 h6 {
   color: #5863F8;
   margin-top: 88px;
+  margin-left: 52px
   size:14px;
 }
 h1 {
   font-size: 42px;
   margin-bottom: 50px;
+  margin-left: 52px
   text-transform: uppercase;
 }
 button {
