@@ -21,6 +21,7 @@ button {
 .flex-container {
   display: flex;
   justify-content: center;
+  margin-bottom: 100px;
 }
 input {
   width: 352px;
