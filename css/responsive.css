@@ -11,3 +11,11 @@
   width: 500px;
   }
 }
+@media (max-width:860px) {
+  textarea {
+    width: 400px;
+  }
+  h1 {
+    font-size: 30px;
+  }
+}
