@@ -1,0 +1,8 @@
+@media (max-width:1150px) {
+  input {
+    width: 250px;
+  }
+  button {
+    250px;
+  }
+}
