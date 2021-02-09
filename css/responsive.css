@@ -59,9 +59,11 @@
 @media (max-width:365px){
   h6 {
         font-size: 12px;
+        margin-left: 52px;
   }
   h1 {
     font-size: 15px;
+    margin-left: 52px;
   }
   textarea {
     width: 150px;
