@@ -30,3 +30,23 @@
     width: 200px;
   }
 }
+@media (max-width:750px) {
+  h1 {
+    font-size: 200px;
+  }
+  textarea {
+    width: 200px;
+    height: 200px;
+  }
+  input {
+    width: 100px;
+    height: 40px;
+  }
+  button {
+    width: 100px;
+    height: 40px;
+  }
+  .input-text {
+    margin-bottom: 10px;
+  }
+}
