@@ -36,7 +36,7 @@
     width: 200px;
   }
 }
-@media (max-width:750px) {
+/* @media (max-width:750px) {
   h1 {
     font-size: 20px;
   }
@@ -55,7 +55,7 @@
   .input-text {
     margin-bottom: 10px;
   }
-}
+} */
 /* @media (max-width:750px){
   h6 {
         font-size: 12px;
