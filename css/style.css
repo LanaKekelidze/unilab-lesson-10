@@ -32,7 +32,6 @@ input {
 input::placeholder {
   color: #CECECE;
   font-size: 13px;
-  font-family: 'Poppins', sans-serif;
 }
 
 .flex-container > div {
