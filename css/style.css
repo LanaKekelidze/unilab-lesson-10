@@ -13,6 +13,8 @@ button {
   width:352px;
   height: 60px;
   background-color: : #5863F8;
+  color:  #FFFFFF;
+  background: #5863F8;
 }
 .flex-container {
   display: flex;
