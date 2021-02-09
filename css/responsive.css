@@ -1,8 +1,8 @@
-@media (max-width:1150px) {
+@media (max-width:1125px) {
   input {
     width: 250px;
   }
   button {
-    250px;
+    width: 250px;
   }
 }
